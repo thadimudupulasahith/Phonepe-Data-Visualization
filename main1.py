@@ -359,7 +359,7 @@ pie_pay_mode = px.pie(pie_payment_mode, values='Transaction Count',
 
 # Create Bar Chart
 pay_bar = px.bar(pie_payment_mode, x='Transaction Type',
-                 y='Transaction Count', color='Transaction Type', title="Transaction Count")
+                 y='Transaction Count', color='Transaction Type', title="Transaction Count Payment Analysis")
 
 # Display Bar Chart
 st.plotly_chart(pay_bar)

@@ -44,3 +44,22 @@ accessible to users.
 - Dataset Link: [Phonepe](https://github.com/PhonePe/pulse#readme)
 - Inspired From: [Phonepe](https://www.phonepe.com/pulse/explore/transaction/2022/4/)
 
+
+![image](https://github.com/thadimudupulasahith/Phonepe-Data-Visualization/assets/87948601/7c32b5b9-36d2-42a1-b178-6381c3313a4b)
+![image](https://github.com/thadimudupulasahith/Phonepe-Data-Visualization/assets/87948601/6a918d34-21e9-491a-ba83-3d35fd4229d3)
+![image](https://github.com/thadimudupulasahith/Phonepe-Data-Visualization/assets/87948601/79076e1d-e372-4c43-b837-126984ac20ec)
+![image](https://github.com/thadimudupulasahith/Phonepe-Data-Visualization/assets/87948601/f6768fbc-89d4-45e8-b9e3-757079eed83e)
+![image](https://github.com/thadimudupulasahith/Phonepe-Data-Visualization/assets/87948601/35e76c64-debd-4931-b01f-1dacda8b50d4)
+![image](https://github.com/thadimudupulasahith/Phonepe-Data-Visualization/assets/87948601/2b91e1e2-f927-46a4-aa65-092ccbe0e73d)
+![image](https://github.com/thadimudupulasahith/Phonepe-Data-Visualization/assets/87948601/a5b98499-f678-49ac-bb16-161b146e194e)
+![image](https://github.com/thadimudupulasahith/Phonepe-Data-Visualization/assets/87948601/2c5f81f6-4742-4aca-bf2c-fe382d78135a)
+![image](https://github.com/thadimudupulasahith/Phonepe-Data-Visualization/assets/87948601/ef7ccd44-59a4-4c6a-908e-b7e19c2d0c4f)
+
+
+
+
+
+
+
+
+
